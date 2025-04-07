@@ -1,0 +1,6 @@
+[submodule "themes/til"]
+	path = themes/til
+	url = https://github.com/michenriksen/hugo-theme-til
+[submodule "themes/typo"]
+	path = themes/typo
+	url = https://github.com/tomfran/typo.git

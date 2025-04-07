@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on IgE Time</title>
+    <link>/tags/maps/</link>
+    <description>Recent content in Maps on IgE Time</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorations into Cartography</title>
+      <link>/posts/explorations-into-cartography/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/posts/explorations-into-cartography/</guid>
+      <description>&lt;p&gt;So, it all started as a small math project- to research any topic we wanted and relate it to calculus. Of course, as soon as I heard the words &amp;ldquo;any topic&amp;rdquo;, I was off, thinking all sorts of ideas that I could do: music theory (specifically why some chords sound better than others), the golden ratio, origami? At this point, I was just trying to relate any hobby of mine to calculus. We still had a couple of months left so I decided to leave the project alone for a while and focus on other things.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
