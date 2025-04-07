@@ -2,45 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IgE Time</title>
-    <link>/tags/</link>
+    <link>https://igefceri.github.io/igetime/tags/</link>
     <description>Recent content in Tags on IgE Time</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Forfun</title>
-      <link>/tags/forfun/</link>
-      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/forfun/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://igefceri.github.io/igetime/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>/tags/java/</link>
+      <link>https://igefceri.github.io/igetime/tags/java/</link>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/java/</guid>
+      <guid>https://igefceri.github.io/igetime/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Maps</title>
-      <link>/tags/maps/</link>
+      <link>https://igefceri.github.io/igetime/tags/maps/</link>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/maps/</guid>
+      <guid>https://igefceri.github.io/igetime/tags/maps/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>/tags/math/</link>
+      <link>https://igefceri.github.io/igetime/tags/math/</link>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/math/</guid>
+      <guid>https://igefceri.github.io/igetime/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>/tags/personal/</link>
+      <link>https://igefceri.github.io/igetime/tags/personal/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/personal/</guid>
+      <guid>https://igefceri.github.io/igetime/tags/personal/</guid>
       <description></description>
     </item>
   </channel>

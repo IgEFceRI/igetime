@@ -2,37 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/explorations-into-cartography/</loc>
+    <loc>https://igefceri.github.io/igetime/posts/explorations-into-cartography/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/forfun/</loc>
+    <loc>https://igefceri.github.io/igetime/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://igefceri.github.io/igetime/tags/java/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/java/</loc>
+    <loc>https://igefceri.github.io/igetime/tags/maps/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/maps/</loc>
+    <loc>https://igefceri.github.io/igetime/tags/math/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/math/</loc>
+    <loc>https://igefceri.github.io/igetime/posts/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://igefceri.github.io/igetime/posts/redrum-java/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/redrum-java/</loc>
+    <loc>https://igefceri.github.io/igetime/tags/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/personal/</loc>
+    <loc>https://igefceri.github.io/igetime/tags/personal/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/this-new-site/</loc>
+    <loc>https://igefceri.github.io/igetime/posts/this-new-site/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IgE Time</title>
-    <link>/posts/</link>
+    <link>https://igefceri.github.io/igetime/posts/</link>
     <description>Recent content in Posts on IgE Time</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://igefceri.github.io/igetime/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explorations into Cartography</title>
-      <link>/posts/explorations-into-cartography/</link>
+      <link>https://igefceri.github.io/igetime/posts/explorations-into-cartography/</link>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/explorations-into-cartography/</guid>
+      <guid>https://igefceri.github.io/igetime/posts/explorations-into-cartography/</guid>
       <description>&lt;p&gt;So, it all started as a small math project- to research any topic we wanted and relate it to calculus. Of course, as soon as I heard the words &amp;ldquo;any topic&amp;rdquo;, I was off, thinking all sorts of ideas that I could do: music theory (specifically why some chords sound better than others), the golden ratio, origami? At this point, I was just trying to relate any hobby of mine to calculus. We still had a couple of months left so I decided to leave the project alone for a while and focus on other things.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ReDrUm Java</title>
-      <link>/posts/redrum-java/</link>
+      <link>https://igefceri.github.io/igetime/posts/redrum-java/</link>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/redrum-java/</guid>
+      <guid>https://igefceri.github.io/igetime/posts/redrum-java/</guid>
       <description>&lt;p&gt;One of my favorite horror movies of all time is Stanley Kubrick&amp;rsquo;s &lt;em&gt;&amp;ldquo;The Shining&amp;rdquo;&lt;/em&gt;. It has minimum deaths and killing but still conveys the same kind of fear and anticipation every horror movie has. So, after finding myself absolutely bored in the middle of November 2019, I gave the movie a spin again. It was the scene when Wendy finds out that Jack had abandoned his play to write the sentence &amp;ldquo;All work no play makes Jack a dull boy&amp;rdquo; in different variations that had inspired me to write up some code. Something about the variation was particularly spooky, and I wanted to copy it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>this new site</title>
-      <link>/posts/this-new-site/</link>
+      <link>https://igefceri.github.io/igetime/posts/this-new-site/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/this-new-site/</guid>
-      <description>&lt;p&gt;IT&amp;rsquo;S been a type of thing I&amp;rsquo;ve been thinking about for a while- a website for all my thoughts. A place for essays on anything, &amp;ldquo;research papers&amp;rdquo;, and ideas written in my own voice and writing style/format.&lt;/p&gt;&#xA;&lt;p&gt;So, it begins- eversley.space. A new era of my life where I shall be documenting my ideas and thoughts. My project process and words, words, words and words.&lt;/p&gt;&#xA;&lt;p&gt;!&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;figure class=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xD;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Image Description&#34; src=&#34;/images/agnesmartin.png&#34; &gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;ONE may ask why the painting &amp;ldquo;I Love the Whole World&amp;rdquo; by Agnes Martin is on the home page. Perhaps I&amp;rsquo;m feeling a bit &amp;ldquo;cultured&amp;rdquo; some may say&amp;hellip; but it&amp;rsquo;s just something about Agnes Martin that makes one feel a bit more.&lt;/p&gt;</description>
+      <guid>https://igefceri.github.io/igetime/posts/this-new-site/</guid>
+      <description>&lt;p&gt;IT&amp;rsquo;S been a type of thing I&amp;rsquo;ve been thinking about for a while- a website for all my thoughts. A place for essays on anything, &amp;ldquo;research papers&amp;rdquo;, and ideas written in my own voice and writing style/format.&lt;/p&gt;&#xA;&lt;p&gt;So, it begins- eversley.space. A new era of my life where I shall be documenting my ideas and thoughts. My project process and words, words, words and words.&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;figure class=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xD;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Image Description&#34; src=&#34;https://igefceri.github.io/igetime/images/agnesmartin.png&#34; &gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xA;ONE may ask why the painting &amp;ldquo;I Love the Whole World&amp;rdquo; by Agnes Martin is on the home page. Perhaps I&amp;rsquo;m feeling a bit &amp;ldquo;cultured&amp;rdquo; some may say&amp;hellip; but it&amp;rsquo;s just something about Agnes Martin that makes one feel a bit more.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

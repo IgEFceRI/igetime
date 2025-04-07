@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on IgE Time</title>
-    <link>/tags/math/</link>
+    <link>https://igefceri.github.io/igetime/tags/math/</link>
     <description>Recent content in Math on IgE Time</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://igefceri.github.io/igetime/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explorations into Cartography</title>
-      <link>/posts/explorations-into-cartography/</link>
+      <link>https://igefceri.github.io/igetime/posts/explorations-into-cartography/</link>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/explorations-into-cartography/</guid>
+      <guid>https://igefceri.github.io/igetime/posts/explorations-into-cartography/</guid>
       <description>&lt;p&gt;So, it all started as a small math project- to research any topic we wanted and relate it to calculus. Of course, as soon as I heard the words &amp;ldquo;any topic&amp;rdquo;, I was off, thinking all sorts of ideas that I could do: music theory (specifically why some chords sound better than others), the golden ratio, origami? At this point, I was just trying to relate any hobby of mine to calculus. We still had a couple of months left so I decided to leave the project alone for a while and focus on other things.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ReDrUm Java</title>
-      <link>/posts/redrum-java/</link>
-      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/posts/redrum-java/</guid>
-      <description>&lt;p&gt;One of my favorite horror movies of all time is Stanley Kubrick&amp;rsquo;s &lt;em&gt;&amp;ldquo;The Shining&amp;rdquo;&lt;/em&gt;. It has minimum deaths and killing but still conveys the same kind of fear and anticipation every horror movie has. So, after finding myself absolutely bored in the middle of November 2019, I gave the movie a spin again. It was the scene when Wendy finds out that Jack had abandoned his play to write the sentence &amp;ldquo;All work no play makes Jack a dull boy&amp;rdquo; in different variations that had inspired me to write up some code. Something about the variation was particularly spooky, and I wanted to copy it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
