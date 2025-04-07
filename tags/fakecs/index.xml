@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal on IgE Time</title>
-    <link>https://igefceri.github.io/igetime/tags/personal/</link>
-    <description>Recent content in Personal on IgE Time</description>
+    <title>FakeCS on IgE Time</title>
+    <link>https://igefceri.github.io/igetime/tags/fakecs/</link>
+    <description>Recent content in FakeCS on IgE Time</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://igefceri.github.io/igetime/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://igefceri.github.io/igetime/tags/fakecs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian Github Website Ramblings</title>
       <link>https://igefceri.github.io/igetime/posts/obsidian-github-website-ramblings/</link>
@@ -16,11 +16,11 @@
       <description>i am not a smart person</description>
     </item>
     <item>
-      <title>Piano Repertoire (Solo)</title>
-      <link>https://igefceri.github.io/igetime/posts/piano-repertoire-solo/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://igefceri.github.io/igetime/posts/piano-repertoire-solo/</guid>
-      <description>list of pieces i&amp;rsquo;ve played</description>
+      <title>ReDrUm Java</title>
+      <link>https://igefceri.github.io/igetime/posts/redrum-java/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/redrum-java/</guid>
+      <description>java fun</description>
     </item>
     <item>
       <title>this new site</title>
