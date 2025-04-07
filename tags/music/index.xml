@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on IgE Time</title>
+    <link>https://igefceri.github.io/igetime/tags/music/</link>
+    <description>Recent content in Music on IgE Time</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://igefceri.github.io/igetime/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Composing Nocturne de Isolé</title>
+      <link>https://igefceri.github.io/igetime/posts/composing-nocturne-de-isol%C3%A9/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/composing-nocturne-de-isol%C3%A9/</guid>
+      <description>a composition for a literature project</description>
+    </item>
+    <item>
+      <title>A (mildly-short) Guide to Baroque and Classical Music</title>
+      <link>https://igefceri.github.io/igetime/posts/a-mildly-short-guide-to-baroque-and-classical-music/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/a-mildly-short-guide-to-baroque-and-classical-music/</guid>
+      <description>a short guide to baroque and classical music</description>
+    </item>
+    <item>
+      <title>Small Thoughts on Shostakovitch</title>
+      <link>https://igefceri.github.io/igetime/posts/small-thoughts-on-shostakovitch/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/small-thoughts-on-shostakovitch/</guid>
+      <description>some thoughts on the russian composer</description>
+    </item>
+    <item>
+      <title>Piano Repertoire (Solo)</title>
+      <link>https://igefceri.github.io/igetime/posts/piano-repertoire-solo/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/piano-repertoire-solo/</guid>
+      <description>list of pieces i&amp;rsquo;ve played</description>
+    </item>
+  </channel>
+</rss>

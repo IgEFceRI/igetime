@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Literature on IgE Time</title>
+    <link>https://igefceri.github.io/igetime/tags/literature/</link>
+    <description>Recent content in Literature on IgE Time</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://igefceri.github.io/igetime/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Descartes and The Handmaid&#39;s Tale</title>
+      <link>https://igefceri.github.io/igetime/posts/descartes-and-the-handmaids-tale/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/descartes-and-the-handmaids-tale/</guid>
+      <description>ramblings connecting two completely unrelated things</description>
+    </item>
+    <item>
+      <title>Composing Nocturne de Isolé</title>
+      <link>https://igefceri.github.io/igetime/posts/composing-nocturne-de-isol%C3%A9/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/composing-nocturne-de-isol%C3%A9/</guid>
+      <description>a composition for a literature project</description>
+    </item>
+    <item>
+      <title>Poem Analysis- Tonight I write the saddest lines (Pablo Neruda)</title>
+      <link>https://igefceri.github.io/igetime/posts/poem-analysis--tonight-i-write-the-saddest-lines-pablo-neruda/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/poem-analysis--tonight-i-write-the-saddest-lines-pablo-neruda/</guid>
+      <description>analysis on a poem</description>
+    </item>
+  </channel>
+</rss>
