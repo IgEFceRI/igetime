@@ -16,6 +16,13 @@
       <description>i am not a smart person</description>
     </item>
     <item>
+      <title>The Deckle</title>
+      <link>https://igefceri.github.io/igetime/posts/the-deckle/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/the-deckle/</guid>
+      <description>a short collection of a humorous newsletter</description>
+    </item>
+    <item>
       <title>Piano Repertoire (Solo)</title>
       <link>https://igefceri.github.io/igetime/posts/piano-repertoire-solo/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
@@ -28,13 +35,6 @@
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://igefceri.github.io/igetime/posts/this-new-site/</guid>
       <description>a new site and trying my best</description>
-    </item>
-    <item>
-      <title>The Deckle</title>
-      <link>https://igefceri.github.io/igetime/posts/the-deckle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://igefceri.github.io/igetime/posts/the-deckle/</guid>
-      <description>a short collection of a humorous newsletter</description>
     </item>
   </channel>
 </rss>
