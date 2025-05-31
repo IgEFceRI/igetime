@@ -6,8 +6,15 @@
     <description>Recent content in Home on IgE Time</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://igefceri.github.io/igetime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glutamate Dehydrogenase Enzyme Report</title>
+      <link>https://igefceri.github.io/igetime/posts/glutamate-dehydrogenase-enzyme-report/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/glutamate-dehydrogenase-enzyme-report/</guid>
+      <description>An report on the metabolic enzyme glutamate dehydrogenase!</description>
+    </item>
     <item>
       <title>IBM Wheelwriter Typewriter</title>
       <link>https://igefceri.github.io/igetime/posts/ibm-wheelwriter-typewriter/</link>
@@ -16,11 +23,11 @@
       <description>a litle about the typewriting journey</description>
     </item>
     <item>
-      <title>Obsidian Github Website Ramblings</title>
-      <link>https://igefceri.github.io/igetime/posts/obsidian-github-website-ramblings/</link>
+      <title>Developing a Obsidian &#43; Github Website on Windows-- Ramblings</title>
+      <link>https://igefceri.github.io/igetime/posts/developing-a-obsidian-&#43;-github-website-on-windows---ramblings/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://igefceri.github.io/igetime/posts/obsidian-github-website-ramblings/</guid>
-      <description>i am not a smart person</description>
+      <guid>https://igefceri.github.io/igetime/posts/developing-a-obsidian-&#43;-github-website-on-windows---ramblings/</guid>
+      <description>I try my hand at making a website in which posts are made in Obsidian and then updated using Git repo.</description>
     </item>
     <item>
       <title>He&#39;s Stealing My Cirrhosis! A Bioethics Paper on Liver Transplants</title>

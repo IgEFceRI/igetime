@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://igefceri.github.io/igetime/tags/fakecs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Obsidian Github Website Ramblings</title>
-      <link>https://igefceri.github.io/igetime/posts/obsidian-github-website-ramblings/</link>
+      <title>Developing a Obsidian &#43; Github Website on Windows-- Ramblings</title>
+      <link>https://igefceri.github.io/igetime/posts/developing-a-obsidian-&#43;-github-website-on-windows---ramblings/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://igefceri.github.io/igetime/posts/obsidian-github-website-ramblings/</guid>
-      <description>i am not a smart person</description>
+      <guid>https://igefceri.github.io/igetime/posts/developing-a-obsidian-&#43;-github-website-on-windows---ramblings/</guid>
+      <description>I try my hand at making a website in which posts are made in Obsidian and then updated using Git repo.</description>
     </item>
     <item>
       <title>ReDrUm Java</title>
