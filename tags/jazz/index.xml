@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jazz on IgE Time</title>
+    <link>https://igefceri.github.io/igetime/tags/jazz/</link>
+    <description>Recent content in Jazz on IgE Time</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://igefceri.github.io/igetime/tags/jazz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jazz notes from just a listener</title>
+      <link>https://igefceri.github.io/igetime/posts/jazz-notes-from-just-a-causal-listener/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://igefceri.github.io/igetime/posts/jazz-notes-from-just-a-causal-listener/</guid>
+      <description>Jazz notes from a listener</description>
+    </item>
+  </channel>
+</rss>
