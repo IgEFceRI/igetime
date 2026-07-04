@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://igefceri.github.io/igetime/tags/classical/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://igefceri.github.io/igetime/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://igefceri.github.io/igetime/posts/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://igefceri.github.io/igetime/tags/literature/</loc>
-    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
+    <loc>https://igefceri.github.io/igetime/tags/music/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://igefceri.github.io/igetime/tags/personal/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://igefceri.github.io/igetime/posts/piano-repertoire-updated/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://igefceri.github.io/igetime/posts/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://igefceri.github.io/igetime/tags/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://igefceri.github.io/igetime/tags/literature/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://igefceri.github.io/igetime/tags/philosophy/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://igefceri.github.io/igetime/posts/some-thoughts-on-life-through-some-collected-writings/</loc>
-    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://igefceri.github.io/igetime/tags/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://igefceri.github.io/igetime/tags/history/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2025-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://igefceri.github.io/igetime/posts/jazz-notes-from-just-a-causal-listener/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://igefceri.github.io/igetime/tags/music/</loc>
     <lastmod>2025-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://igefceri.github.io/igetime/posts/writing-narrative-notes-or-why-write/</loc>
@@ -70,9 +76,6 @@
   </url><url>
     <loc>https://igefceri.github.io/igetime/posts/descartes-and-the-handmaids-tale/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://igefceri.github.io/igetime/tags/classical/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://igefceri.github.io/igetime/posts/composing-nocturne-de-isol%C3%A9/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
